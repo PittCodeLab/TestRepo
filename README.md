@@ -1,2 +1,2 @@
 # TestRepo
-This is a test repo intended to check out how repositories work.
+This is a repo intended to explore how repositories work.
